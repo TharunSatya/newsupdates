@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TharunSatya/newsupdates.git/static/css/main.4547605b.css",
+    "main.js": "/TharunSatya/newsupdates.git/static/js/main.979a7ba0.js",
+    "static/js/787.4c026eef.chunk.js": "/TharunSatya/newsupdates.git/static/js/787.4c026eef.chunk.js",
+    "index.html": "/TharunSatya/newsupdates.git/index.html",
+    "main.4547605b.css.map": "/TharunSatya/newsupdates.git/static/css/main.4547605b.css.map",
+    "main.979a7ba0.js.map": "/TharunSatya/newsupdates.git/static/js/main.979a7ba0.js.map",
+    "787.4c026eef.chunk.js.map": "/TharunSatya/newsupdates.git/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4547605b.css",
+    "static/js/main.979a7ba0.js"
+  ]
+}

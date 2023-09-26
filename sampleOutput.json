@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "Cameron Salerno",
+      "title": "USC vs. San Jose State score, takeaways: Caleb Williams helps Trojans overcome shaky start in season opener - CBS Sports",
+      "description": "Williams, the reigning Heisman winner, and freshman WR Zachariah Branch showed off their star power",
+      "url": "https://www.cbssports.com/college-football/news/usc-vs-san-jose-state-score-takeaways-caleb-williams-helps-trojans-overcome-shaky-start-in-season-opener/live/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/27/24678535-399d-4457-8f22-e7bed26e2be4/thumbnail/1200x675/c4e8a42d9abcc9c13e7ae19d4167c790/caleb-williams-sjsu.jpg",
+      "publishedAt": "2023-08-27T04:40:00Z",
+      "content": "LOS ANGELES -- No. 6 USC struggled on both sides of the ball early, but used an explosive second half to pull away from San Jose State for a 56-28 win in Week 0. The Trojans scored 35 points in the f… [+4875 chars]"
+    },
+    {
+      "source": { "id": "fox-sports", "name": "Fox Sports" },
+      "author": "Ben Verlander",
+      "title": "Shohei Ohtani injury: Updates from Ben Verlander - FOX Sports",
+      "description": "A source tells Ben Verlander Shohei Ohtani's fatigue in early August was unrelated to his UCL tear — and that the recent injury is different than the one he suffered in 2018.",
+      "url": "https://www.foxsports.com/stories/mlb/shohei-ohtani-injury-updates-from-ben-verlander",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/08/1408/814/GettyImages-1605796123.jpg?ve=1&tl=1",
+      "publishedAt": "2023-08-27T02:31:29Z",
+      "content": "Shohei Ohtani tore his UCL for the second time earlier this week and will not pitch for the rest of this season. An enormous amount of speculation has circulated since then; should the Angels have sa… [+2910 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Aimee Lewis and Kevin Dotson, CNN",
+      "title": "FIFA suspends Spain soccer chief Luis Rubiales and coaches resign over unwanted kiss with Women’s World Cup winner - Yahoo Sports",
+      "description": "Spanish soccer federation president Luis Rubiales’ unwanted kiss on Women’s World Cup Winner Jenni Hermoso has triggered a crisis in Spanish soccer, with...",
+      "url": "https://www.cnn.com/2023/08/26/football/fifa-luis-rubiales-suspension-spt-intl/index.html",
+      "urlToImage": "https://media.zenfs.com/en/cnn_articles_875/12a9fa11ee47a1c58383826acdb4f4f8",
+      "publishedAt": "2023-08-26T20:22:22Z",
+      "content": "Spanish soccer federation president Luis Rubiales unwanted kiss on Womens World Cup Winner Jenni Hermoso has triggered a crisis in Spanish soccer, with world governing body FIFA suspending the presid… [+6737 chars]"
+    }
+  ]
+}
